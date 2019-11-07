@@ -11,4 +11,4 @@
 - Opportunity: We can implement *any algorithm*, not only graphics.
 - Challenge: obtain efficiency and high performance.
 ## Difference between CPU and GPU
-![CPU vs GPU]https://image.slidesharecdn.com/gpuprogrammingwithjava-110904013702-phpapp02/95/gpu-programming-with-java-4-728.jpg
+![CPU vs GPU](picture/gpu-programing.jpg)
