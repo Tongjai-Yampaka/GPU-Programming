@@ -39,4 +39,5 @@
 - An accelerated program is going to be as fast as its serial part.
 
 <img src="picture/amdahl.JPG">
-Next>> [Compute Unified Device Architecture:CUDA](Introduction.md)
+[Compute Unified Device Architecture:CUDA](Introduction.md)
+
