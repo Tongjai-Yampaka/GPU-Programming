@@ -12,3 +12,9 @@
 - Challenge: obtain efficiency and high performance.
 ## Difference between CPU and GPU
 ![](picture/gpu-programming.jpg)
+##GPU computing - key ideas:
+- Massively parallel
+- Hundreds of cores
+- Thousands of threads
+- Programable
+![](picture/rtx.jpg)
