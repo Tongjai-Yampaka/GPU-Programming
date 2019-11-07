@@ -11,7 +11,7 @@
 - Opportunity: We can implement *any algorithm*, not only graphics.
 - Challenge: obtain efficiency and high performance.
 ## Difference between CPU and GPU
-![](picture/gpu-programming.jpg){:height="100px" width="100px"}
+![](picture/gpu-programming.jpg | width=48)
 
 ##GPU computing 
 - key ideas:
