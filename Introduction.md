@@ -20,6 +20,7 @@
 - Thousands of threads
 - Programable
 
-<img src="picture/rtx.JPG" width="224" height="224">
-<img src="picture/amd.JPG" width="224" height="224">
-<img src="picture/intel.JPG" width="224" height="224">
+<img src="picture/rtx.JPG">
+<img src="picture/nvidia.JPG">
+<img src="picture/amd.JPG">
+<img src="picture/intel.JPG">
