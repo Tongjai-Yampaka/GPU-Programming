@@ -11,4 +11,4 @@
 - Opportunity: We can implement *any algorithm*, not only graphics.
 - Challenge: obtain efficiency and high performance.
 ## Difference between CPU and GPU
-![CPU vs GPU](picture/gpu-programing.jpg)
+![](picture/gpu-programming.jpg)
