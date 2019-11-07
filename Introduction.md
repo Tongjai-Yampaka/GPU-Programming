@@ -11,7 +11,7 @@
 - Opportunity: We can implement *any algorithm*, not only graphics.
 - Challenge: obtain efficiency and high performance.
 ## Difference between CPU and GPU
-![](picture/gpu-programming.jpg | width=48)
+![](picture/gpu-programming.jpg)
 
 ##GPU computing 
 - key ideas:
@@ -20,4 +20,4 @@
 - Thousands of threads
 - Programable
 
-![](picture/rtx.JPG)
+<img src="picture/rtx.JPG" width="224" height="224"><img src="picture/amd.JPG" width="224" height="224"><img src="picture/intel.JPG" width="224" height="224">
