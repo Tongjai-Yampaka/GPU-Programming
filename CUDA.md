@@ -43,5 +43,10 @@ Threads rely on the following two unique coordinates to distinguish themselves f
   <br>threadIdx.y
   <br>threadIdx.z
 
+<img src="picture/threadmapping.png">
 
-  
+## Launching a CUDA Kernel
+  A CUDA kernel call is a direct extension to the C function syntax that adds a kernel’s execution
+confi guration inside triple-angle-brackets:
+<br>kernel_name <<<grid, block>>>(argument list);
+<br>kernel_name<<<4, 8>>>(argument list); 4 blocks and 8 threads per block
