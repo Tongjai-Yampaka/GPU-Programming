@@ -5,7 +5,8 @@
   - A multithreaded program is partitioned into blocks of threads that execute independently from each other.
   - GPU with more multiprocessors will automatically execute the program in less time than a CPU with fewer multiprocessors.
   
-  <img src="picture/automatic-scalability.png"> <img src="picture/grid-of-thread-blocks.png">
+  <img src="picture/automatic-scalability.png"><img src="picture/grid-of-thread-blocks.png">
+  
 ## Programming Model 
 (reference: <a href="http://www.hds.bme.hu/~fhegedus/C++/Professional%20CUDA%20C%20Programming.pdf">Professional CUDA C Programming</a>)
 - The CUDA programming model enables you to execute applications on heterogeneous computing
@@ -13,4 +14,5 @@ systems
 - A heterogeneous environment consists of CPUs complemented by GPUs.
   - <B>Host</B>: the CPU and its memory (host memory).
   - <B>Device</B>: the GPU and its memory (device memory).
-  <img src="picture/memory-hierarchy.png"> <img src="picture/heterogeneous-programming.png">  
+  
+  <img src="picture/memory-hierarchy.png"><img src="picture/heterogeneous-programming.png">  
