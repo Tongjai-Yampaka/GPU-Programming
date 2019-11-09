@@ -52,9 +52,8 @@ confi guration inside triple-angle-brackets:
 <br>kernel_name<<<4, 8>>>(argument list); 4 blocks and 8 threads per block
 
 <img src="picture/threadlayout.PNG">
+
 <B>Example</B>
 The C code for vector addition on the host is given below:
-<br>void sumArraysOnHost(float *A, float *B, float *C, const int N) {</br>
-      <br>for (int i = 0; i < N; i++)</br>
-          <br>C[i] = A[i] + B[i];</br>
-  <br>}</br>
+
+<img src="picture/vectoradd.PNG">
