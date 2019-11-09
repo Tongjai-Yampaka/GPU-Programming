@@ -50,3 +50,5 @@ Threads rely on the following two unique coordinates to distinguish themselves f
 confi guration inside triple-angle-brackets:
 <br>kernel_name <<<grid, block>>>(argument list);
 <br>kernel_name<<<4, 8>>>(argument list); 4 blocks and 8 threads per block
+
+<img src="picture/threadlayout.png">
