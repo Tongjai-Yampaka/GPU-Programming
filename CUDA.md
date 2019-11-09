@@ -11,8 +11,13 @@
 (reference: <a href="http://www.hds.bme.hu/~fhegedus/C++/Professional%20CUDA%20C%20Programming.pdf">Professional CUDA C Programming</a>)
 - The CUDA programming model enables you to execute applications on heterogeneous computing
 systems
+  
+  <img src="picture/heterogeneous-programming.png">  
+
 - A heterogeneous environment consists of CPUs complemented by GPUs.
   - <B>Host</B>: the CPU and its memory (host memory).
   - <B>Device</B>: the GPU and its memory (device memory).
   
-  <img src="picture/memory-hierarchy.png"><img src="picture/heterogeneous-programming.png">  
+  <img src="picture/memory-hierarchy.png">
+  
+  
