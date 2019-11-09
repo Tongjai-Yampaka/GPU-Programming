@@ -20,6 +20,28 @@ systems
 
 <img src="picture/memory-hierarchy.png">
 
-A typical processing fl ow of a CUDA program follows this pattern:
+## A typical processing flow of a CUDA program follows this pattern:
+- Copy data from CPU memory to GPU memory.
+- Invoke kernels to operate on the data stored in GPU memory.
+- Copy data back from GPU memory to CPU memory.
+
+## Organizing Threads
+  When a kernel function is launched from the host side, execution is moved to a device where a large
+number of threads are generated and each thread executes the statements specified by the
+kernel function. 
+CUDA organizes grids and blocks in three dimensions.
+- blockDim (block dimension, measured in threads)
+- gridDim (grid dimension, measured in blocks)
+
+Threads rely on the following two unique coordinates to distinguish themselves from each other:
+- blockIdx (block index within a grid)
+  <br>blockIdx.x
+  <br>blockIdx.y
+  <br>blockIdx.z
+- threadIdx (thread index within a block)
+  <br>threadIdx.x
+  <br>threadIdx.y
+  <br>threadIdx.z
+
 
   
