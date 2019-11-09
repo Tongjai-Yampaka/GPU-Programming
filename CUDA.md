@@ -13,11 +13,13 @@
 systems
 - A heterogeneous environment consists of CPUs complemented by GPUs.
   
-<img src="picture/heterogeneous-programming.png">
+<img src="picture/heterogeneous-programming2.png">
 
 - <B>Host</B>: the CPU and its memory (host memory).
 - <B>Device</B>: the GPU and its memory (device memory).
 
 <img src="picture/memory-hierarchy.png">
-  
+
+A typical processing fl ow of a CUDA program follows this pattern:
+
   
