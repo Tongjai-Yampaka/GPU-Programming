@@ -5,4 +5,4 @@
   - A multithreaded program is partitioned into blocks of threads that execute independently from each other.
   - GPU with more multiprocessors will automatically execute the program in less time than a CPU with fewer multiprocessors.
   
-  
+  <img src="picture/automatic-scalability.PNG">
