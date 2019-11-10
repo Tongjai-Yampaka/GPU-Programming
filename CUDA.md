@@ -63,11 +63,3 @@ The C code for vector addition on the host is given below:
 - execute each independent threads
 - Single Instruction Multiple Data: SIMD
 
-void c_hello(){  
->for(int i = 0; i < n; i++){   
->>printf("Hello World!\n");  
-}  
-int main(){  
->c_hello();  
->return 0;  
-}
