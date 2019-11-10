@@ -71,4 +71,4 @@ The C code for vector addition on the host is given below:
 ### Vector addition
 <img src="picture/vecadd.PNG">
 
-Next>> <a href="https://colab.research.google.com/notebooks/welcome.ipynb">CUDA C on Google Colab</a>
+Next>> <a href="introduction to colab.ipynb">CUDA C on Google Colab</a>
