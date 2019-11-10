@@ -63,3 +63,10 @@ The C code for vector addition on the host is given below:
 - execute each independent threads
 - Single Instruction Multiple Data: SIMD
 
+### Hello World!
+<img src="picture/hello_c.PNG">
+
+<img src="picture/hello_g.PNG">
+
+### Vector addition
+<img src="picture/vecadd.PNG">
