@@ -4,6 +4,8 @@
 - CUDA C on Google colab
 - PyCUDA on Google colab
 - CUDA Machine Learning
+  - <a href="https://rapids.ai/about.html">RAPIDS suite</a>
+  - <a href="https://github.com/rapidsai/notebooks">RAPIDS suite notebook</a>
 
 # Introduction to GPU
 - The Graphic Processing Unit (GPU) is a processor that was specialized for processing graphics.
